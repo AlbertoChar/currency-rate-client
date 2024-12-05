@@ -33,17 +33,6 @@ On most systems:
 open index.html
 Or manually open the file in a web browser.
 
-## Folder Structure
-currency-rate-client/
-   ├── css/                   # Styling for the application
-   │     └── styles.css       # Main CSS file
-   ├── js/                    # JavaScript functionality
-   │     ├── app.js           # Main application logic
-   │     ├── services/        # Handles API communication
-   │     └── components/      # Manages UI components (e.g., dropdowns, tables)
-   ├── index.html             # Main HTML file
-   └── README.md              # Project documentation
-
 
 ## Features Breakdown
 Real-Time Exchange Rates:
